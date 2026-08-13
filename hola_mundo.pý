@@ -1,1 +1,2 @@
 print("hola_mundo¡¡¡")
+name = input("¿cual es tu nombre?")
